@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "zypherian:dust_infused"
+    },
+    {
+      "item": "zypherian:dust_infused"
+    }
+  ],
+  "result": {
+    "item": "zypherian:diamond_infused"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "III",
+    " S ",
+    " S "
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "zypherian:diamond_infused"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "zypherian:pickaxe_diamond_infused",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+//ITEMS
+item.diamond_infused.name=Infused Diamond
+item.dust_infused.name=Infused Dust
+//TOOLS
+item.axe_diamond_infused.name=Infused Diamond Axe
+item.hoe_diamond_infused.name=Infused Diamond Hoe
+item.pickaxe_diamond_infused.name=Infused Diamond Pickaxe
+item.shovel_diamond_infused.name=Infused Diamond Shovel
+item.sword_diamond_infused.name=Infused Diamond Sword
+//ARMOR
+item.helmet_diamond_infused.name=Infused Diamond Helmet
+item.chestplate_diamond_infused.name=Infused Diamond Chestplate
+item.leggings_diamond_infused.name=Infused Diamond Leggings
+item.boots_diamond_infused.name=Infused Diamond Boots
+//BLOCKS
+tile.ore_overworld_infused.name=Infused Ore
+tile.ore_nether_infused.name=Nether Infused Ore
+tile.ore_end_infused.name=Ender Infused Ore
+//CREATIVETAB
+itemGroup.zypherian_tab=Zypherian

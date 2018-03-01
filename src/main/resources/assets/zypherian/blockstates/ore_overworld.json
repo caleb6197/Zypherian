@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "variant=infused": { "model": "zypherian:ore_overworld_infused" }
+  }
+}

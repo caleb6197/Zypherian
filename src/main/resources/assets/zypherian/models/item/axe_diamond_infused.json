@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "zypherian:items/axe_diamond_infused"
+  }
+}

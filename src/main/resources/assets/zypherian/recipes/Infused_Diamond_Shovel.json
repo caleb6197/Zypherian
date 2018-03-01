@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "I",
+    "S",
+    "S"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "zypherian:diamond_infused"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "zypherian:shovel_diamond_infused",
+    "count": 1
+  }
+}

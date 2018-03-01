@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "III",
+    "I I",
+    "I I"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "zypherian:diamond_infused"
+    }
+  },
+
+  "result":
+  {
+    "item": "zypherian:leggings_diamond_infused",
+    "count": 1
+  }
+}
